@@ -79,12 +79,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style/style.css">
     <title>Google Faq</title>
 </head>
 <body>
     <header>
         <div class="logo-title">
-            <!-- <img src="https://purepng.com/public/uploads/large/purepng.com-google-logo-2015brandlogobrand-logoiconssymbolslogosgoogle-6815229372333mqrr.png" alt="Main logo"> -->
+            <img src="https://purepng.com/public/uploads/large/purepng.com-google-logo-2015brandlogobrand-logoiconssymbolslogosgoogle-6815229372333mqrr.png" alt="Main logo">
             <h2>Privacy &amp; Termini</h2>
         </div>
         <nav id="main-nav">
@@ -96,6 +97,7 @@
                 <li class="active">Domande frequenti</li>
             </ul>
         </nav>
+        <hr>
     </header>
     <main>
         <?php
